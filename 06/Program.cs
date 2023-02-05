@@ -13,3 +13,5 @@ Console.Write("x = ");
 Math.Sin({x}) = {Math.Sin(x)}");
             Console.ReadLine();
             
+
+
